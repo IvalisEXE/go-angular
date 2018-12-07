@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "helical-element-182307",
+  "private_key_id": "6057bf730a9d892c44786eaddb0f1c02db6b5870",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCK4zG49An2ZX6t\nM600J/fQOfXH9UV+fGa+UydddouIOyMW7lkj9QECoARhlLzQG6bZQPE78tzDPqyI\n2BnP2TPHv4Gcn3N8lGUz/LlQYbVVi7mEoZc3hGW4CMbMpkezsDec3zT3v9BvHiPp\nTzCXV2gQaL19eF8395qGYyePl/UtLmL8s8KFQ9Q057CGAG4QEHSlrY6ZqOI0SmK+\n+k5flsjKeL5BHTQJwgGzn78InATUOfvXGAlbLfT83M24tPRN4Ndk6W4zOTuwh6CE\nFXryMA2CGBx1k6J5FChYTV2PZy27UMwJ+MR1Gn70z19T7YBUrWdUxuAPl2Cdq8G7\nRfJHOIZpAgMBAAECggEABR0aXpH1r/HKuTvW273A/RS1PPiF54NTERzkrSdJOenb\nf+OkupMxx1P29VTRouPxv7wJZciqYjHzjlJOmP2JT4h4kDi6utKH62MZu6DtWUn8\nuaptc+jXCfCgyTYyG6aYVZlOTPTuCrlUXynAQ0I/naMNnwoIj3n5YYtTEJFqwJAP\nx5k0eG+clYhN3vZe5VhgICYs/G31xMPYBP7Cd1k6kjxf/tx1gqo+nTSh28zsCuFG\nzKEMb8tJgWMyQU0Zgj7PD71WiTMKcp/2fY5B4fAs3LSUbQP6hBeQiVxJMDRNyCAA\ncuDJyWZsocoq/8BLI0LnOI8yNZCCWo8LPvcGm7iX9QKBgQDAWgRSSekTC6SsSwgX\nMOvOKh7GWq4Z22bxN1Q1iIXrLzlZxOkm/lZW59LW43Y60x+p2Kg16LEDj100xqVz\naA9laPFdiBRLdiU0MfYbVnXG+dkcIUCUPH7SkTpkTX4NiT4MwWakCgvrpqVCvRr2\nO0ajqROu6D50fHnx2seEeg8+swKBgQC42ENt75iaom5CXzpX9nRhreti3SsjuLsL\nl7EwEBHUOJZ4MXdhRLx6y3S80Ewa3g8AoZ9ZI8wOUbvlR21PGp5GvyLKfBWXrT0R\nBtLw09gbyjA9lmB5EFWc+SsauwP38PSpjCBTUob8hqBtOkd28ZzR8a0rWBLN4uBa\npPKJ8VE0cwKBgEw9YakcEn2yB7siojpO8aftmfUUzB0DkXHadE4jprDpLtod6ivC\nc4ZOrIrv7VSzicFQVpvHdyHqGQ9qDPoJLNENH13rKeAfG+/sPZfoVRZgwWUc6PPY\nZowfc/19mZDT7PwxS/WI5eCpVKd3PNCL/huwUFTrSJXzIIJ0LNCdcJ1xAoGAd7Kb\n36oC8Uf0DIjsGCAhd0uPnSLJl8U9YqFlfVE6qmnGjqjBvLwtLXto6ggc8F0R6/+9\nV5UFw9QLz8p0L4B2NCv71JGLzf/CBq+bk5YrYLuKh6dEa8E3H4J+9j1asYlYdh6m\npC5R+V8YrgLKWmzVd2KAGAxdiPO9AxXDda5OPp8CgYA9JxSWdtjkkwwHKEe2kB/2\n9Wu2zl5kQMJ7yG16U+V3DRFXBG/ETsx5btnKpdkda8q95yRdcnnpD8n7Lf24BIix\nqtfdZNkEqPzl3GxIwpmOCZT7wratPXu0Hfx06HaXFJgX2XbywkigMxm2r6INOArJ\nKCllANLcIJSQGUYun2wIqw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "taxi-demand-dev@helical-element-182307.iam.gserviceaccount.com",
+  "client_id": "115534975601789059711",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token", 
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/taxi-demand-dev%40helical-element-182307.iam.gserviceaccount.com"
+}
